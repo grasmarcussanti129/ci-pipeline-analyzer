@@ -16,5 +16,12 @@
     "jest": "^27.0.0"
   },
   "author": "Your Name",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "ci",
+    "cd",
+    "pipeline",
+    "analyzer",
+    "performance"
+  ]
 }
