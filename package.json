@@ -1,7 +1,7 @@
 {
   "name": "ci-pipeline-analyzer",
   "version": "1.0.0",
-  "description": "A tool for analyzing and visualizing CI/CD pipeline performance metrics in real-time.",
+  "description": "A tool for analyzing and visualizing CI/CD pipeline performance metrics in real-time, enabling teams to optimize their workflows.",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
